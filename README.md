@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images//interactive_rating.png)
+![](./images/interactive_rating.png)
 ![](./images/thank_you_interactive_rating.png)
 ![](./images/mobile_interactive_rating.png)
 
